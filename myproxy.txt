@@ -1,0 +1,4 @@
+payload:
+  - '+.ipleak.net'
+  - '+.msftstatic.com'
+  - '+.codeium.com'
