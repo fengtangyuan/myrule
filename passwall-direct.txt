@@ -112,7 +112,7 @@ wxsnsencsvp.wxs.qq.com
 ibytedtos.com
 toutiao50.com
 ibyteimg.com
- drive-pc.quark.cn
+drive-pc.quark.cn
 aliyundrive.asia
 alicloudccp.com
 openapi.aliyundrive.com
