@@ -5,3 +5,4 @@ payload:
   - '+.chatbotapp.ai'
   - '+.subtitlecat.com'
   - '+.xyg688.com'
+  - '+.yszzq.com'
