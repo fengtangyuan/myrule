@@ -25,3 +25,4 @@ stripe.com
 turn.livekit.cloud
 openai.com
 chatgpt.com
+cgtt.me

@@ -6,3 +6,4 @@ payload:
   - '+.subtitlecat.com'
   - '+.xyg688.com'
   - '+.yszzq.com'
+  - 'timeserver.cs.umb.edu'
