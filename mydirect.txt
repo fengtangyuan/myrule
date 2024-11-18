@@ -1,0 +1,3 @@
+payload:
+  - 'yacd.haishan.me'
+  - 'clash.razord.top'
