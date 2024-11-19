@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,yszzq.com
   - DOMAIN,timeserver.cs.umb.edu
   - DOMAIN,plex.tv
+  - DOMAIN-SUFFIX,sentry.io
