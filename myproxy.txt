@@ -7,3 +7,4 @@ payload:
   - '+.xyg688.com'
   - '+.yszzq.com'
   - 'timeserver.cs.umb.edu'
+  - 'plex.tv'
