@@ -9,4 +9,4 @@ payload:
   - 'timeserver.cs.umb.edu'
   - 'plex.tv'
   - '+.sentry.io'
-  - '+.linux.do'
+  - '+.linux.do
