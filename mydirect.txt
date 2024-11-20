@@ -1,6 +1,7 @@
 payload:
   - 'clash.razord.top'
   - 'yacd.haishan.me'
+  - 'yacd.metacubex.one'
   - '+.wogg.link'
   - '+.wogg.xyz'
   - '+.xxooo.cf'
