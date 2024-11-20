@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,msftstatic.com
-  - DOMAIN-SUFFIX,codeium.com
-  - DOMAIN-SUFFIX,chatbotapp.ai
-  - DOMAIN-SUFFIX,subtitlecat.com
-  - DOMAIN-SUFFIX,xyg688.com
-  - DOMAIN-SUFFIX,yszzq.com
-  - DOMAIN,timeserver.cs.umb.edu
-  - DOMAIN,plex.tv
-  - DOMAIN-SUFFIX,sentry.io
+  - '+.ipleak.net'
+  - '+.msftstatic.com'
+  - '+.codeium.com'
+  - '+.chatbotapp.ai'
+  - '+.subtitlecat.com'
+  - '+.xyg688.com'
+  - '+.yszzq.com'
+  - 'timeserver.cs.umb.edu'
+  - 'plex.tv'
+  - '+.sentry.io'
