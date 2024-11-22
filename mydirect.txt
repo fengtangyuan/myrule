@@ -149,3 +149,5 @@ payload:
   - 'vip.imgffzy.com'
   - 'vip.ffzyread1.com'
   - 'git.886.be'
+  - '+.subaibaiys.com'
+  - '+.wangchuanxin.top'
