@@ -157,3 +157,4 @@ payload:
   - '+.myripon.com'
   - '+.4199.win'
   - '+.nelreports.net'
+  - '+.tvsou.com'
