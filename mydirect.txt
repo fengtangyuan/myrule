@@ -153,6 +153,7 @@ payload:
   - '+.wangchuanxin.top'
   - '+.1080zyk6.com'
   - '+.high22-playback.com'
+  - '+.high24-playback.com'
   - '+.dplayerjs.com'
   - '+.myripon.com'
   - '+.4199.win'
