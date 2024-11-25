@@ -160,6 +160,3 @@ payload:
   - '+.nelreports.net'
   - '+.tvsou.com'
   - '+.ip-api.com'
-  - '+.xpgtv.net'
-  - '+.hooks.nabu.casa'
-  - '+.xpgtv.xyz'
