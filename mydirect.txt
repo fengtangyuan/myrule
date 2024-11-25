@@ -159,3 +159,4 @@ payload:
   - '+.4199.win'
   - '+.nelreports.net'
   - '+.tvsou.com'
+  - '+.ip-api.com'
