@@ -160,4 +160,5 @@ payload:
   - '+.nelreports.net'
   - '+.tvsou.com'
   - '+.ip-api.com'
-  
+  - '+.nowwon.xyz'
+  - '+.nowm3.xyz'
