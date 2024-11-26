@@ -162,3 +162,4 @@ payload:
   - '+.ip-api.com'
   - '+.nowwon.xyz'
   - '+.nowm3.xyz'
+  - '+.1e100cdn.net'
