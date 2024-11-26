@@ -166,3 +166,4 @@ payload:
   - '+.1e100cdn.net'
   - '+.cz01.tv'
   - '+.cz01.vip'
+  - '+.yunpan.win'
