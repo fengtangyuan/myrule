@@ -168,3 +168,4 @@ payload:
   - '+.cz01.vip'
   - '+.yunpan.win'
   - '+.76898102.xyz'
+  - '+.66666654.xyz'
