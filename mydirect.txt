@@ -163,3 +163,5 @@ payload:
   - '+.nowwon.xyz'
   - '+.nowm3.xyz'
   - '+.1e100cdn.net'
+  - '+.cz01.tv'
+  - '+.cz01.vip'
