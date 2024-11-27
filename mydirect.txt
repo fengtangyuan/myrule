@@ -167,4 +167,5 @@ payload:
   - '+.cz01.vip'
   - '+.yunpan.win'
   - '+.wogg.net'
+  - '+.rapidssl.pp.ua'
   
