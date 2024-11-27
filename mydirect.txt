@@ -4,7 +4,6 @@ payload:
   - 'yacd.metacubex.one'
   - '+.wogg.link'
   - '+.wogg.xyz'
-  - '+.wogg.net'
   - '+.xxooo.cf'
   - '+.gitcafe.net'
   - '+.jiohub.top'
