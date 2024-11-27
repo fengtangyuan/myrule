@@ -166,4 +166,5 @@ payload:
   - '+.cz01.tv'
   - '+.cz01.vip'
   - '+.yunpan.win'
+  - '+.wogg.net'
   
