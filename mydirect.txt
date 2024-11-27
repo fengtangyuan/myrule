@@ -168,4 +168,6 @@ payload:
   - '+.yunpan.win'
   - '+.wogg.net'
   - '+.rapidssl.pp.ua'
+  - '+.66666654.xyz'
+  - '+.76898102.xyz'
   
