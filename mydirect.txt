@@ -95,7 +95,7 @@ payload:
   - '9t5af8lts.com'
   - 'd4y3409ts.com'
   - '3zj55vots.com'
-  - '+.m3u8.girigirilove.com'
+  - '+.girigirilove.com'
   - '+.cloudflarestorage.com'
   - '+.ho7k.com'
   - '+.dsakf23665.com'
