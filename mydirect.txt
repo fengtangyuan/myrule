@@ -170,4 +170,5 @@ payload:
   - '+.rapidssl.pp.ua'
   - '+.66666654.xyz'
   - '+.76898102.xyz'
+  - '+.dnshtca.pp.ua'
   
