@@ -7,6 +7,6 @@ payload:
   - '+.xyg688.com'
   - '+.yszzq.com'
   - 'timeserver.cs.umb.edu'
-  - 'plex.tv'
+  - '+.plex.tv'
   - '+.sentry.io'
   - '+.linux.do'
