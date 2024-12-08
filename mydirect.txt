@@ -172,4 +172,5 @@ payload:
   - '+.76898102.xyz'
   - '+.dnshtca.pp.ua'
   - '+.kkzycdn.com'
+  - '+.steamcontent.com'
   
