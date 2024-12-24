@@ -188,4 +188,5 @@ payload:
   - '+.suboimage.com'
   - '+.wsrv.nl'
   - '+.bfzypic.com'
+  - '+.jisuimage.com'
   
