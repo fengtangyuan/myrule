@@ -183,5 +183,9 @@ payload:
   - '+.cdn-qc.content.steamchina.com'
   - '+.cdn-ali.content.steamchina.com'
   - '+.epicgames-download1-1251447533.file.myqcloud.com'
-  - '+.ghp.ci'
+  - '+.ffzy888.com'
+  - '+.yzzyimg.online'
+  - '+.suboimage.com'
+  - '+.wsrv.nl'
+  - '+.bfzypic.com'
   
