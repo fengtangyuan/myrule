@@ -192,4 +192,6 @@ payload:
   - '+.34t3hm5iv93q.com'
   - '+.nwbj9qnhpcxa.com'
   - '+.my.microsoftpersonalcontent.com'
+  - '+.heimuer.xyz'
+  - '+.hmrvideo.com'
   
