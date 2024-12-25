@@ -193,4 +193,6 @@ payload:
   - '+.my.microsoftpersonalcontent.com'
   - '+.heimuer.xyz'
   - '+.hmrvideo.com'
+  - '+.xptvhelper.link'
+  - '+.ghp.ci'
   
