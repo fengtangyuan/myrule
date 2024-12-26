@@ -197,4 +197,3 @@ payload:
   - '+.ghp.ci'
   - '+.ghproxy.com'
   - '+.global.aa-rt.sharepoint.com'
-  
