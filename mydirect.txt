@@ -195,4 +195,5 @@ payload:
   - '+.hmrvideo.com'
   - '+.xptvhelper.link'
   - '+.ghp.ci'
+  - '+.global.aa-rt.sharepoint.com'
   
