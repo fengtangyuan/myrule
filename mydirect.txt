@@ -1,4 +1,4 @@
-payload:
+opayload:
   - 'clash.razord.top'
   - 'yacd.haishan.me'
   - 'yacd.metacubex.one'
@@ -197,5 +197,4 @@ payload:
   - '+.ghp.ci'
   - '+.ghproxy.com'
   - '+.global.aa-rt.sharepoint.com'
-  - '+.girigirilove.com'
   
