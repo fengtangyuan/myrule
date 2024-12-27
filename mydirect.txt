@@ -197,3 +197,4 @@ payload:
   - '+.ghproxy.com'
   - '+.global.aa-rt.sharepoint.com'
   - '+.czzyvideo.com'
+  - 'm3u8.girigirilove.com'

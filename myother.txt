@@ -1,2 +1,2 @@
 payload:
-  - '+.girigirilove.com'
+  - 'anime.girigirilove.com'
