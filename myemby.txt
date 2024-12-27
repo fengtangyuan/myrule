@@ -1,3 +1,4 @@
 payload:
   - '+.misakaf.org'
   - '+.emby.media'
+  - '+.a.nel.cloudflare.com'
