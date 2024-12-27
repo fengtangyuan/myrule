@@ -189,7 +189,6 @@ payload:
   - '+.wsrv.nl'
   - '+.bfzypic.com'
   - '+.jisuimage.com'
-  - '+.34t3hm5iv93q.com'
   - '+.my.microsoftpersonalcontent.com'
   - '+.heimuer.xyz'
   - '+.hmrvideo.com'
