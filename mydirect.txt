@@ -183,6 +183,8 @@ payload:
   - '+.cdn-qc.content.steamchina.com'
   - '+.cdn-ali.content.steamchina.com'
   - '+.epicgames-download1-1251447533.file.myqcloud.com'
+  - '+.cm.steampowered.com'
+  - '+.steamserver.net'
   - '+.ffzy888.com'
   - '+.yzzyimg.online'
   - '+.suboimage.com'
