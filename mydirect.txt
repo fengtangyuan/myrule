@@ -203,3 +203,5 @@ payload:
   - '+.mihdr.top'
   - '+.743forever.com'
   - '+.xpanpan.site'
+  - '+.muoupan.top'
+  - '+.m10.iyf.tv'
