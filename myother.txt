@@ -1,3 +1,2 @@
 payload:
   - 'anime.girigirilove.com'
-  - '+.img.lzzyimg.com'
