@@ -205,3 +205,4 @@ payload:
   - '+.muoupan.top'
   - '+.m10.iyf.tv'
   - '+.dsxys.pro'
+  - '+.assets.heimuer.tv'
