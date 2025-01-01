@@ -206,3 +206,4 @@ payload:
   - '+.m10.iyf.tv'
   - '+.dsxys.pro'
   - '+.assets.heimuer.tv'
+  - '+.img.lzzyimg.com'
