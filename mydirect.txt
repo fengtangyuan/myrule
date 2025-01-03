@@ -205,6 +205,5 @@ payload:
   - '+.mihdr.top'
   - '+.743forever.com'
   - '+.muoupan.top'
-  - '+.m10.iyf.tv'
   - '+.dsxys.pro'
   - '+.assets.heimuer.tv'
