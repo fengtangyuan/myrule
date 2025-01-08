@@ -160,7 +160,6 @@ payload:
   - '+.4199.win'
   - '+.nelreports.net'
   - '+.tvsou.com'
-  - '+.ip-api.com'
   - '+.nowwon.xyz'
   - '+.nowm3.xyz'
   - '+.1e100cdn.net'
