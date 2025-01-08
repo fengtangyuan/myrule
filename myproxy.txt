@@ -10,3 +10,4 @@ payload:
   - '+.plex.tv'
   - '+.sentry.io'
   - '+.linux.do'
+  - '+.board.zash.run.place'
