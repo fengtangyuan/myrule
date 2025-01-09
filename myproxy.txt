@@ -12,5 +12,3 @@ payload:
   - '+.linux.do'
   - '+.board.zash.run.place'
   - '+.xpanpan.site'
-  - 'challenges.cloudflare.com'
-  - 'static.cloudflareinsights.com'
