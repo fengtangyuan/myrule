@@ -12,3 +12,4 @@ payload:
   - '+.linux.do'
   - '+.board.zash.run.place'
   - '+.xpanpan.site'
+  - '+.mox.moe'
