@@ -75,7 +75,6 @@ payload:
   - 'gateway.icloud.com'
   - 'v.damoli.pro'
   - 'hdmoli.pro'
-  - '+.4k-av.com'
   - 'ppvod01.blbtgg.com'
   - '+.zaqohu.com'
   - '+.xjqxz.top'
