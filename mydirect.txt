@@ -204,3 +204,4 @@ payload:
   - '+.muoupan.top'
   - '+.dsxys.pro'
   - '+.assets.heimuer.tv'
+  - '+.mogg.top'
