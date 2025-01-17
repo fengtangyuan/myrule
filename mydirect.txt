@@ -1,4 +1,4 @@
-payload:
+no payload:
   - 'clash.razord.top'
   - 'yacd.haishan.me'
   - 'yacd.metacubex.one'
@@ -204,4 +204,3 @@ payload:
   - '+.muoupan.top'
   - '+.dsxys.pro'
   - '+.assets.heimuer.tv'
-  - '+.mogg.top'
