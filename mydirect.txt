@@ -1,4 +1,4 @@
-no payload:
+payload:
   - 'clash.razord.top'
   - 'yacd.haishan.me'
   - 'yacd.metacubex.one'
