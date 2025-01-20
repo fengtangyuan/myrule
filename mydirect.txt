@@ -205,3 +205,4 @@ payload:
   - '+.dsxys.pro'
   - '+.assets.heimuer.tv'
   - '+.dandan.sakurateam.top'
+  - '+.rycjapi.com'
