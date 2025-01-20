@@ -209,3 +209,4 @@ payload:
   - '+.ry-pic.com'
   - '+.ryplay7.com'
   - '+.ivipcdn.com'
+  - '+.ryplay11.com'
