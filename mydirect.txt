@@ -208,3 +208,4 @@ payload:
   - '+.rycjapi.com'
   - '+.ry-pic.com'
   - '+.ryplay7.com'
+  - '+.ivipcdn.com'
