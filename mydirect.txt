@@ -206,3 +206,4 @@ payload:
   - '+.assets.heimuer.tv'
   - '+.dandan.sakurateam.top'
   - '+.rycjapi.com'
+  - '+.ry-pic.com'
