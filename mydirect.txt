@@ -207,3 +207,4 @@ payload:
   - '+.dandan.sakurateam.top'
   - '+.rycjapi.com'
   - '+.ry-pic.com'
+  - '+.ryplay7.com'
