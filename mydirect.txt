@@ -226,4 +226,5 @@ payload:
   - '+.cfkj86.com'
   - '+.gduamoe.com'
   - '+.ppxys.vip'
+  - '+.shijie.chat'
 
