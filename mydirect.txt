@@ -225,4 +225,5 @@ payload:
   - '+.ivipcdn.com'
   - '+.cfkj86.com'
   - '+.gduamoe.com'
+  - '+.ppxys.vip'
 
