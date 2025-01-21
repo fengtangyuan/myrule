@@ -223,4 +223,6 @@ payload:
   - '+.ryplay14.com'
   - '+.ryplay15.com'
   - '+.ivipcdn.com'
+  - '+.cfkj86.com'
+  - '+.gduamoe.com'
 
