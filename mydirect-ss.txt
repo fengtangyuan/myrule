@@ -228,4 +228,4 @@ m3u8.girigirilove.com
 .shijie.chat
 .zox.show
 .movie.kg
-.a.net.cloudflare.com
+.a.nel.cloudflare.com

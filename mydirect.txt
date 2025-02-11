@@ -229,4 +229,4 @@ payload:
   - '+.shijie.chat'
   - '+.zox.show'
   - '+.movie.kg'
-  - '+.a.net.cloudflare.com'
+  - '+.a.nel.cloudflare.com'
