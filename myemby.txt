@@ -1,5 +1,2 @@
 payload:
-  - '+.misakaf.org'
-  - '+.emby.media'
-  - '+.a.nel.cloudflare.com'
   - '+.pandalive.co.kr'
