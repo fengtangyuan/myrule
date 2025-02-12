@@ -13,5 +13,3 @@ payload:
   - '+.board.zash.run.place'
   - '+.xpanpan.site'
   - '+.mox.moe'
-  - '+.ktprods.com'
-  - '+.dbzy.tv'
