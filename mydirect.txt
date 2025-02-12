@@ -231,3 +231,4 @@ payload:
   - '+.movie.kg'
   - '+.a.nel.cloudflare.com'
   - '+.ktprods.com'
+  - '+.dbzy.tv'
