@@ -230,4 +230,3 @@ payload:
   - '+.zox.show'
   - '+.movie.kg'
   - '+.a.nel.cloudflare.com'
-  - '+.alphatvapp.top'
