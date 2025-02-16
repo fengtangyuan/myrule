@@ -236,3 +236,4 @@ payload:
   - 'aop9999.alphatvapp.top'
   - '+.ktprods.com'
   - '+.dbzy3.com'
+  - '+.dbzy.tv'
