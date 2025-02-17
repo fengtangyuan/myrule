@@ -234,4 +234,8 @@ payload:
   - 'ok2.alphatvapp.top'
   - 'alphatvo256988.alphatvapp.top'
   - 'aop9999.alphatvapp.top'
+  - '+.ktprods.com'
+  - '+.dbzy3.com'
+  - '+.dbzy.tv'
+  - '+.libvio.cc'
   - '+.wmxz.567996.xyz'
