@@ -1,3 +1,4 @@
 payload:
   - '+.pandalive.co.kr'
   - '+.recmata.net'
+  - '+.recmata.net'
