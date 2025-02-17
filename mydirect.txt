@@ -234,3 +234,4 @@ payload:
   - 'ok2.alphatvapp.top'
   - 'alphatvo256988.alphatvapp.top'
   - 'aop9999.alphatvapp.top'
+  - '+.wmxz.567996.xyz'
