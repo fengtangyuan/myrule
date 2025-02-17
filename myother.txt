@@ -1,2 +1,3 @@
 payload:
   - '+.mogg.top'
+  - '+.409648.xyz'
