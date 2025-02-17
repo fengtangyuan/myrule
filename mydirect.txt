@@ -239,3 +239,4 @@ payload:
   - '+.dbzy.tv'
   - '+.libvio.cc'
   - '+.wmxz.567996.xyz'
+  - '+.gstatic.com'
