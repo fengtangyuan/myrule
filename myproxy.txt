@@ -13,3 +13,5 @@ payload:
   - '+.board.zash.run.place'
   - '+.xpanpan.site'
   - '+.mox.moe'
+  - '+.zox.show'
+  - 'overseaplus.alphatvapp.top'
