@@ -1,6 +1,4 @@
 payload:
-  - '+.pandalive.co.kr'
-  - '+.recmata.net'
   - 'jcf.niceduck.lol'
   - 'cf.niceduck.lol'
   - 'vi.niceduck.lol'
