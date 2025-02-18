@@ -13,6 +13,3 @@ payload:
   - '+.board.zash.run.place'
   - '+.xpanpan.site'
   - '+.mox.moe'
-  - 'cavps.eu.org'
-  - '+.zox.show'
-  - 'overseaplus.alphatvapp.top'

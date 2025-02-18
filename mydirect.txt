@@ -235,3 +235,6 @@ payload:
   - '+.libvio.cc'
   - '+.wmxz.567996.xyz'
   - 'emby-e-jp.pppp.us.kg'
+  - 'cavps.eu.org'
+  - '+.zox.show'
+  - 'overseaplus.alphatvapp.top'
