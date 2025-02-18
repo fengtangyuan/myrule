@@ -1,8 +1,0 @@
-payload:
-  - 'jcf.niceduck.lol'
-  - 'cf.niceduck.lol'
-  - 'vi.niceduck.lol'
-  - 'cfloacl.emby.moe'
-  - 'cfloacl2.emby.moe'
-  - 'loacl2.emby.moe'
-  - 'loacl.emby.moe'
