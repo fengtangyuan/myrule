@@ -238,3 +238,4 @@ payload:
   - 'cavps.eu.org'
   - '+.zox.show'
   - 'overseaplus.alphatvapp.top'
+  - '+.mooguu.xyz'
