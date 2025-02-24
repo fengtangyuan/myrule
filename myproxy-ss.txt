@@ -12,3 +12,4 @@ timeserver.cs.umb.edu
 .board.zash.run.place
 .xpanpan.site
 .mox.moe
+.girigirilove.com
