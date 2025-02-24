@@ -19,6 +19,6 @@ def main(file_name):
             f.write(item + "\n")
 
 if __name__ == "__main__":
-    list = ["mydirect.txt", "myemby.txt", "myother.txt", "myproxy.txt"]
+    list = ["mydirect.txt", "myother.txt", "myproxy.txt"]
     for item in list:
         main(item)
