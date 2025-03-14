@@ -237,3 +237,4 @@ payload:
   - 'emby-e-jp.pppp.us.kg'
   - 'cavps.eu.org'
   - '+.zox.show'
+  - '+.thehanju.com'
