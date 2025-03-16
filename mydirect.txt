@@ -238,3 +238,4 @@ payload:
   - 'cavps.eu.org'
   - '+.zox.show'
   - '+.thehanju.com'
+  - '+.czzyvideo.com'
