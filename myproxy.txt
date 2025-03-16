@@ -14,4 +14,3 @@ payload:
   - '+.xpanpan.site'
   - '+.mox.moe'
   - '+.girigirilove.com'
-  - '+.4k-av.com'
