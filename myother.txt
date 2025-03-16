@@ -1,3 +1,4 @@
 payload:
   - '+.mogg.top'
   - '+.alphatvapp.top'
+  - '+.4k-av.com'
