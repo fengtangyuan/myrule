@@ -239,3 +239,4 @@ payload:
   - '+.zox.show'
   - '+.thehanju.com'
   - '+.czzyvideo.com'
+  - 'nsfw.oceancloud.asia'
