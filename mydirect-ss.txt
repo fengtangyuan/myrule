@@ -3,6 +3,7 @@ yacd.haishan.me
 yacd.metacubex.one
 .wogg.link
 .wogg.xyz
+.wogg.one
 .xxooo.cf
 .gitcafe.net
 .jiohub.top
@@ -196,7 +197,6 @@ git.886.be
 .ghp.ci
 .ghproxy.com
 .global.aa-rt.sharepoint.com
-.czzyvideo.com
 .mihdr.top
 .743forever.com
 .muoupan.top
@@ -235,3 +235,5 @@ git.886.be
 emby-e-jp.pppp.us.kg
 cavps.eu.org
 .zox.show
+.thehanju.com
+.czzyvideo.com
