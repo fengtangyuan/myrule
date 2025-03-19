@@ -198,7 +198,6 @@ payload:
   - '+.ghp.ci'
   - '+.ghproxy.com'
   - '+.global.aa-rt.sharepoint.com'
-  - '+.czzyvideo.com'
   - '+.mihdr.top'
   - '+.743forever.com'
   - '+.muoupan.top'
