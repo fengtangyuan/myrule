@@ -234,3 +234,4 @@ payload:
   - '+.libvio.cc'
   - '+.thehanju.com'
   - '+.czzyvideo.com'
+  - '+.czzymovie.com'
