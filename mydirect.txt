@@ -235,3 +235,4 @@ payload:
   - '+.thehanju.com'
   - '+.czzyvideo.com'
   - '+.czzymovie.com'
+  - '+.girigirilove.com'

@@ -13,4 +13,3 @@ payload:
   - '+.board.zash.run.place'
   - '+.xpanpan.site'
   - '+.mox.moe'
-  - '+.girigirilove.com'
