@@ -55,6 +55,6 @@ def parse_yaml_classical_to_domain(input_file, output_file):
 
 
 # 示例用法
-input_path = "classical.yaml"
-output_path = "domain.yaml"
+input_path = "AI.list"
+output_path = "AI.yaml"
 parse_yaml_classical_to_domain(input_path, output_path)
