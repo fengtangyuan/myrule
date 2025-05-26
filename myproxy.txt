@@ -14,3 +14,4 @@ payload:
   - '+.xpanpan.site'
   - '+.mox.moe'
   - '+.girigirilove.com'
+  - '+.jable.tv'
