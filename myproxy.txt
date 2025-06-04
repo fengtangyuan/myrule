@@ -16,3 +16,4 @@ payload:
   - '+.girigirilove.com'
   - '+.jable.tv'
   - '+.trakt.tv'
+  - 'raw.githubusercontent.com'
