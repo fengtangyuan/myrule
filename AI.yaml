@@ -12,7 +12,7 @@ payload:
 - '+.oaiusercontent.com'
 - '+.openai.com'
 - '+.sora.com'
-- 'api.githubcopilot.com'
+- '+.githubcopilot.com'
 - 'copilot-proxy.githubusercontent.com'
 - 'copilot.microsoft.com'
 - 'sydney.bing.com'
