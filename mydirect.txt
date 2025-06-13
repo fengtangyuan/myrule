@@ -238,3 +238,5 @@ payload:
   - 'cdn.jsdelivr.net'
   - 'api.msedgeservices.com'
   - '+.spst1.com'
+  - '+.parsec.app'
+  - '+.parsecusercontent.com'
