@@ -18,3 +18,4 @@ payload:
   - '+.trakt.tv'
   - 'raw.githubusercontent.com'
   - '+.kox.moe'
+  - '+.assrt.net'
