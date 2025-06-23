@@ -19,3 +19,4 @@ payload:
   - 'raw.githubusercontent.com'
   - '+.kox.moe'
   - '+.assrt.net'
+  - 'api.opensubtitles.com'
