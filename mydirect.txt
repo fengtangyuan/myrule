@@ -197,7 +197,6 @@ payload:
   - '+.xptvhelper.link'
   - '+.ghp.ci'
   - '+.ghproxy.com'
-  - '+.global.aa-rt.sharepoint.com'
   - '+.mihdr.top'
   - '+.743forever.com'
   - '+.muoupan.top'
