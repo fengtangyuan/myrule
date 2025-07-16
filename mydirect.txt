@@ -201,6 +201,7 @@ payload:
   - '+.743forever.com'
   - '+.muoupan.top'
   - '+.dsxys.pro'
+  - '+.dsxys.com'
   - '+.assets.heimuer.tv'
   - '+.dandan.sakurateam.top'
   - '+.rycjapi.com'
