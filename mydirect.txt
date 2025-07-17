@@ -240,3 +240,5 @@ payload:
   - '+.spst1.com'
   - '+.parsec.app'
   - '+.parsecusercontent.com'
+  - '+.heimuer.app'
+  - '+.hmrvideo.com'
