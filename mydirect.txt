@@ -242,4 +242,3 @@ payload:
   - '+.parsecusercontent.com'
   - '+.heimuer.app'
   - '+.hmrvideo.com'
-  - '+.xboxlive.com'
