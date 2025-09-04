@@ -247,3 +247,4 @@ payload:
   - '+.msn.com'
   - '+.gamepass.com'
   - '+.xboxlive.cn'
+  - '+.s-microsoft.com'
