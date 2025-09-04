@@ -20,3 +20,4 @@ payload:
   - '+.kox.moe'
   - '+.assrt.net'
   - 'api.opensubtitles.com'
+  - 'vdownload.hembed.com'
