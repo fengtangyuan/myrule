@@ -246,3 +246,4 @@ payload:
   - '+.gamepass.com'
   - '+.xboxlive.cn'
   - '+.s-microsoft.com'
+  - '+.tailscale.com'
