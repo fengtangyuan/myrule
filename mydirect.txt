@@ -247,3 +247,4 @@ payload:
   - '+.xboxlive.cn'
   - '+.s-microsoft.com'
   - '+.tailscale.com'
+  - '+.cdn-apple.com'
