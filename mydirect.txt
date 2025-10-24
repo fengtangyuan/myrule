@@ -247,6 +247,7 @@ payload:
   - '+.xboxlive.cn'
   - '+.s-microsoft.com'
   - '+.tailscale.com'
+  - '+.cdn-apple.com'
   - '+.yydsys.top'
   - '+.666291.xyz'
   
