@@ -250,5 +250,6 @@ payload:
   - '+.cdn-apple.com'
   - '+.yydsys.top'
   - '+.666291.xyz'
-  - 'initial.nijigem.by'
+  - '+.nijigem.by'
+  - '+.cdn.bgp.yt'
   
