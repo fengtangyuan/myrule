@@ -21,3 +21,4 @@ payload:
   - '+.assrt.net'
   - 'api.opensubtitles.com'
   - 'vdownload.hembed.com'
+  - 'www.cycani.org'
