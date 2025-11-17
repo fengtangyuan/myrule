@@ -250,4 +250,5 @@ payload:
   - '+.cdn-apple.com'
   - '+.yydsys.top'
   - '+.666291.xyz'
+  - 'v4.plex.tv'
   

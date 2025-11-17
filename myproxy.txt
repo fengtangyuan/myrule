@@ -22,3 +22,4 @@ payload:
   - 'api.opensubtitles.com'
   - 'vdownload.hembed.com'
   - 'www.cycani.org'
+  - '+.plex.tv'
