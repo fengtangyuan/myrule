@@ -252,3 +252,5 @@ payload:
   - '+.666291.xyz'
   - 'v4.plex.tv'
   - '+.qianwen.com'
+  - '+.970xw.com'
+  - '+.dytt-cine.com'
