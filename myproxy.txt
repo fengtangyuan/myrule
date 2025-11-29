@@ -23,3 +23,4 @@ payload:
   - 'vdownload.hembed.com'
   - 'www.cycani.org'
   - '+.plex.tv'
+  - 'mainlandip.com'
