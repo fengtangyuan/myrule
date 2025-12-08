@@ -256,3 +256,4 @@ payload:
   - '+.dytt-cine.com'
   - '+.douyinvod.com'
   - '+.immersivetranslate.cn'
+  - 'www.visa.com'
