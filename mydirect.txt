@@ -204,6 +204,8 @@ payload:
   - '+.assets.heimuer.tv'
   - '+.dandan.sakurateam.top'
   - '+.rycjapi.com'
+  - 'hmian.sharepoint.com'
+  - 'emos.lol'
   - '+.ry-pic.com'
   - '+.ryplay1.com'
   - '+.ryplay2.com'
