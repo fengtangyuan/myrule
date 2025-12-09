@@ -259,3 +259,4 @@ payload:
   - 'www.visa.com'
   - 'asia.877774.xyz'
   - 'priscilla.ns.cloudflare.com'
+  - 'mfa.gov.ua'
