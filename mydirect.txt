@@ -205,6 +205,7 @@ payload:
   - '+.dandan.sakurateam.top'
   - '+.rycjapi.com'
   - 'hmian.sharepoint.com'
+  - 'tvshow.sharepoint.cn'
   - 'emos.lol'
   - '+.ry-pic.com'
   - '+.ryplay1.com'
