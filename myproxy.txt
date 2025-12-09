@@ -24,3 +24,4 @@ payload:
   - 'www.cycani.org'
   - '+.plex.tv'
   - 'mainlandip.com'
+  - 'cf.090227.xyz'
