@@ -273,3 +273,5 @@ payload:
   - '+.cloudflare.182682.xyz'
   - '+.push.apple.com'
   - '+.hotmail.com'
+  - 'gdmf.apple.com'
+  - '+.ls.apple.com'
