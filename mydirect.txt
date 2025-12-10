@@ -271,3 +271,5 @@ payload:
   - '+.tencentapp.cn'
   - 'saas.sin.fan'
   - '+.cloudflare.182682.xyz'
+  - '+.push.apple.com'
+  - '+.hotmail.com'

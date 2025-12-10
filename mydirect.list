@@ -270,3 +270,5 @@ DOMAIN,staticdelivery.nexusmods.com
 DOMAIN-SUFFIX,tencentapp.cn
 DOMAIN,saas.sin.fan
 DOMAIN-SUFFIX,cloudflare.182682.xyz
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,hotmail.com
