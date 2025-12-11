@@ -275,3 +275,4 @@ payload:
   - '+.hotmail.com'
   - 'gdmf.apple.com'
   - '+.ls.apple.com'
+  - 'board.zash.run.place'
