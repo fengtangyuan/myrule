@@ -264,7 +264,7 @@ payload:
   - 'asia.877774.xyz'
   - 'priscilla.ns.cloudflare.com'
   - 'mfa.gov.ua'
-  - 'youxuan.cf.090227.xyz'
+  - '+.cf.090227.xyz'
   - 'www.shopify.com'
   - 'store.ubi.com'
   - 'staticdelivery.nexusmods.com'
