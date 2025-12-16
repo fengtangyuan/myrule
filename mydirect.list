@@ -263,7 +263,7 @@ DOMAIN,www.visa.com
 DOMAIN,asia.877774.xyz
 DOMAIN,priscilla.ns.cloudflare.com
 DOMAIN,mfa.gov.ua
-DOMAIN,youxuan.cf.090227.xyz
+DOMAIN-SUFFIX,cf.090227.xyz
 DOMAIN,www.shopify.com
 DOMAIN,store.ubi.com
 DOMAIN,staticdelivery.nexusmods.com
@@ -274,3 +274,8 @@ DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,ls.apple.com
+DOMAIN,cfsaas.080112.xyz
+DOMAIN,www.5199dy.com
+DOMAIN,www.fastsoso.cn
+DOMAIN,yapuyapu.com
+DOMAIN,www.veryssl.com

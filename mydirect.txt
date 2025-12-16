@@ -275,3 +275,8 @@ payload:
   - '+.hotmail.com'
   - 'gdmf.apple.com'
   - '+.ls.apple.com'
+  - 'cfsaas.080112.xyz'
+  - 'www.5199dy.com'
+  - 'www.fastsoso.cn'
+  - 'yapuyapu.com'
+  - 'www.veryssl.com'
