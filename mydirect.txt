@@ -263,7 +263,7 @@ payload:
   - 'www.visa.com'
   - 'asia.877774.xyz'
   - 'priscilla.ns.cloudflare.com'
-  - 'mfa.gov.ua'
+  - '+.mfa.gov.ua'
   - '+.cf.090227.xyz'
   - 'www.shopify.com'
   - 'store.ubi.com'

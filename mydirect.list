@@ -262,7 +262,7 @@ DOMAIN-SUFFIX,tao2022.dpdns.org
 DOMAIN,www.visa.com
 DOMAIN,asia.877774.xyz
 DOMAIN,priscilla.ns.cloudflare.com
-DOMAIN,mfa.gov.ua
+DOMAIN-SUFFIX,mfa.gov.ua
 DOMAIN-SUFFIX,cf.090227.xyz
 DOMAIN,www.shopify.com
 DOMAIN,store.ubi.com
