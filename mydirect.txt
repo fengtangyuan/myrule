@@ -280,3 +280,6 @@ payload:
   - 'www.fastsoso.cn'
   - 'yapuyapu.com'
   - 'www.veryssl.com'
+  - 'yongboss.cloudflare.byoip.top'
+  - 'freeyx.cloudflare88.eu.org'
+  - 'ali.nonull.pp.ua'
