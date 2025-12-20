@@ -1,5 +1,5 @@
-input_file = "AI.list"
-output_file = "AI.yaml"
+input_file = "google.list"
+output_file = "google.yaml"
 
 with open(input_file, "r", encoding="utf-8") as fin, open(
     output_file, "w", encoding="utf-8"
