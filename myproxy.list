@@ -23,4 +23,4 @@ DOMAIN,vdownload.hembed.com
 DOMAIN,www.cycani.org
 DOMAIN-SUFFIX,plex.tv
 DOMAIN,mainlandip.com
-DOMAIN,alerts.home-assistant.io
+DOMAIN-SUFFIX,home-assistant.io

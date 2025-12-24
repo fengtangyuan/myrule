@@ -24,4 +24,4 @@ payload:
   - 'www.cycani.org'
   - '+.plex.tv'
   - 'mainlandip.com'
-  - 'alerts.home-assistant.io'
+  - '+.home-assistant.io'
