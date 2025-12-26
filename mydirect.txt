@@ -260,6 +260,7 @@ payload:
   - '+.douyinvod.com'
   - '+.immersivetranslate.cn'
   - '+.tao2022.dpdns.org'
+  - '+.tao2023.dpdns.org'
   - 'www.visa.com'
   - 'asia.877774.xyz'
   - 'priscilla.ns.cloudflare.com'
