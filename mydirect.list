@@ -288,4 +288,5 @@ DOMAIN,nrtcfdns.zone.id
 DOMAIN,gateway.fe2.apple-dns.net
 DOMAIN,time.apple.com
 DOMAIN,time.cloudflare.com
-DOMAIN,cf.090227.xyz
+DOMAIN-SUFFIX,sharepointonline.com.akadns.net
+DOMAIN,yxh20190608-my.sharepoint.com

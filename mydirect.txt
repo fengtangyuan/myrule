@@ -289,4 +289,5 @@ payload:
   - 'gateway.fe2.apple-dns.net'
   - 'time.apple.com'
   - 'time.cloudflare.com'
-  - 'cf.090227.xyz'
+  - '+.sharepointonline.com.akadns.net'
+  - 'yxh20190608-my.sharepoint.com'
