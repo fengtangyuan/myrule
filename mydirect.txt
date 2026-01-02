@@ -292,4 +292,4 @@ payload:
   - 'time.cloudflare.com'
   - '+.sharepointonline.com.akadns.net'
   - 'yxh20190608-my.sharepoint.com'
-  - 'auto-zerocost.dolby.dpdns.org'
+  - '+.dolby.dpdns.org'
