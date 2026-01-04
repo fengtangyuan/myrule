@@ -293,3 +293,4 @@ payload:
   - '+.sharepointonline.com.akadns.net'
   - 'yxh20190608-my.sharepoint.com'
   - '+.dolby.dpdns.org'
+  - 'www.ntu.edu.sg'
