@@ -203,8 +203,6 @@ DOMAIN-SUFFIX,dsxys.com
 DOMAIN-SUFFIX,assets.heimuer.tv
 DOMAIN-SUFFIX,dandan.sakurateam.top
 DOMAIN-SUFFIX,rycjapi.com
-DOMAIN,hmian.sharepoint.com
-DOMAIN,tvshow.sharepoint.cn
 DOMAIN,emos.lol
 DOMAIN-SUFFIX,ry-pic.com
 DOMAIN-SUFFIX,ryplay1.com
@@ -290,6 +288,6 @@ DOMAIN,gateway.fe2.apple-dns.net
 DOMAIN,time.apple.com
 DOMAIN,time.cloudflare.com
 DOMAIN-SUFFIX,sharepointonline.com.akadns.net
-DOMAIN,yxh20190608-my.sharepoint.com
+DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,dolby.dpdns.org
 DOMAIN,www.ntu.edu.sg
