@@ -291,6 +291,6 @@ payload:
   - 'time.apple.com'
   - 'time.cloudflare.com'
   - '+.sharepointonline.com.akadns.net'
-  - 'yxh20190608-my.sharepoint.com'
+  - '+.sharepoint.com'
   - '+.dolby.dpdns.org'
   - 'www.ntu.edu.sg'
