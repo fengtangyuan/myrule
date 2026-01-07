@@ -292,3 +292,4 @@ payload:
   - '+.sharepoint.cn'
   - '+.dolby.dpdns.org'
   - 'www.ntu.edu.sg'
+  - '+.4kmp.com'
