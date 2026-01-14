@@ -1,4 +1,4 @@
-# 2025-11-20 13:43:03
+# 2026-01-05 08:39:54
 # OpenAI
 AND, ((DOMAIN-KEYWORD, chatgpt-async-webps-prod-), (DOMAIN-SUFFIX, webpubsub.azure.com))
 AND, ((DOMAIN-KEYWORD, openaicom-api-), (DOMAIN-SUFFIX, azurefd.net))
@@ -48,7 +48,11 @@ DOMAIN, labs.google
 DOMAIN, aisandbox-pa.googleapis.com
 
 # Google Antigravity
-DOMAIN, antigravity.google
+DOMAIN-SUFFIX, antigravity.google
+DOMAIN-SUFFIX, antigravity-unleash.goog
+DOMAIN, daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN, daily-cloudcode-pa.googleapis.com
+AND, ((DOMAIN-KEYWORD, antigravity-auto-updater-), (DOMAIN-SUFFIX, run.app))
 
 # Anthropic
 DOMAIN-SUFFIX, anthropic.com
