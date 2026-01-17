@@ -295,3 +295,4 @@ payload:
   - '+.4kmp.com'
   - 'static.cloudflareinsights.com'
   - 'cf.3666888.xyz'
+  - 'cf.877774.xyz'
