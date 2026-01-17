@@ -294,3 +294,4 @@ payload:
   - 'www.ntu.edu.sg'
   - '+.4kmp.com'
   - 'static.cloudflareinsights.com'
+  - 'cf.3666888.xyz'
