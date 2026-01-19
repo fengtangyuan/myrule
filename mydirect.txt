@@ -296,3 +296,4 @@ payload:
   - 'static.cloudflareinsights.com'
   - 'cf.3666888.xyz'
   - 'cf.877774.xyz'
+  - 'cf.8852778.xyz'
