@@ -190,7 +190,6 @@ payload:
   - '+.wsrv.nl'
   - '+.bfzypic.com'
   - '+.jisuimage.com'
-  - '+.my.microsoftpersonalcontent.com'
   - '+.heimuer.xyz'
   - '+.xptvhelper.link'
   - '+.ghp.ci'
