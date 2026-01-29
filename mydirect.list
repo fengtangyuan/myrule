@@ -122,7 +122,6 @@ DOMAIN-SUFFIX,nkvod.com
 DOMAIN-SUFFIX,13to.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,vod-qcloud.com
-DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,mcloud.139.com
 DOMAIN-SUFFIX,jiasu.buzz
 DOMAIN-SUFFIX,huawei8.live
@@ -246,7 +245,6 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,yydsys.top
 DOMAIN-SUFFIX,666291.xyz
@@ -295,3 +293,5 @@ DOMAIN-SUFFIX,4kmp.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,cf.3666888.xyz
 DOMAIN,cf.877774.xyz
+DOMAIN,cf.8852778.xyz
+DOMAIN-SUFFIX,datasink.sensorsdata.cn
