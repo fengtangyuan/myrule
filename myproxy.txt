@@ -25,3 +25,6 @@ payload:
   - '+.plex.tv'
   - 'mainlandip.com'
   - '+.home-assistant.io'
+  - '+.javxx.com'
+  - 'api.rc-backup.com'
+  - '+.clear-water-112.space'
