@@ -309,3 +309,4 @@ payload:
   - 'www.bttwoo.com'
   - 'haiwaiapi.1fc8ab0.com'
   - 'images.jjawa.com'
+  - 'play.kvmplay.org'
