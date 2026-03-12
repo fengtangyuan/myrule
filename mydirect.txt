@@ -297,3 +297,4 @@ payload:
   - '+.datasink.sensorsdata.cn'
   - '+.dalvdm.cc'
   - '+.libvio.in'
+  - '+.aowu.tv'
