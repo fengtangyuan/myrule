@@ -6,6 +6,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 代理规则管理项目，维护和转换各种代理规则格式（Loon YAML ↔ Clash LIST），并支持通过 IP 归属地自动分类域名。
 
+## 重要指令
+
+**当用户说"添加域名，xxx"或类似表述时，调用 `domain-classify.py` 命令查询域名信息并写入文件**：
+```bash
+python domain-classify.py <domain> 1
+# 例: python domain-classify.py www.test111.com 1
+```
+
 ## 目录结构
 
 - **根目录**: 规则文件和转换脚本
@@ -22,7 +30,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 常用命令
 
-### 域名查询与分类
+### 添加域名查询与分类
 ```bash
 # 交互模式
 python domain-classify.py

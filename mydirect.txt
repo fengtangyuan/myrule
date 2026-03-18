@@ -308,4 +308,3 @@ payload:
   - 'haiwaiapi.1fc8ab0.com'
   - 'images.jjawa.com'
   - 'play.kvmplay.org'
-  - 'aowutv.wwwnav.com'

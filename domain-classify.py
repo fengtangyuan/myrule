@@ -65,25 +65,57 @@ def get_output_filename(is_cn):
 
 def append_to_yaml(file_path, domain):
     """追加域名到 YAML 文件"""
+    # 检查是否已存在
+    domain_clean = domain.strip().strip("'").strip('"')
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            if f"'{domain_clean}'" in content or f'"{domain_clean}"' in content:
+                return  # 已存在，跳过
+
+    # 追加新域名到文件末尾
     if not os.path.exists(file_path):
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write("payload:\n")
             f.write(f"  - '{domain}'\n")
     else:
-        with open(file_path, 'r+', encoding='utf-8') as f:
-            content = f.read()
-            f.seek(0)
-            f.truncate()
-            # 在 payload 后插入新域名
-            lines = content.split('\n')
-            inserted = False
-            for line in lines:
-                f.write(line + '\n')
-                if line.strip() == 'payload:' and not inserted:
-                    f.write(f"  - '{domain}'\n")
-                    inserted = True
-            if not inserted:
-                f.write(f"  - '{domain}'\n")
+        with open(file_path, 'rb+') as f:
+            f.seek(0, 2)  # 移动到文件末尾
+            # 检查最后一个字符是否是换行符
+            f.seek(-1, 2)
+            last_char = f.read(1)
+            if last_char not in (b'\n', b'\r'):
+                f.write(b'\n')
+            f.write(f"  - '{domain}'\n".encode('utf-8'))
+
+
+def append_to_main_file(domain):
+    """同时追加到 mydirect.txt 总文件"""
+    main_file = "mydirect.txt"
+    if not os.path.exists(main_file):
+        with open(main_file, 'w', encoding='utf-8') as f:
+            f.write("payload:\n")
+            f.write(f"  - '{domain}'\n")
+        return
+
+    # 检查是否已存在
+    with open(main_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+        # 检查域名是否已存在（去除引号和空格后比较）
+        domain_clean = domain.strip().strip("'").strip('"')
+        if f"'{domain_clean}'" in content or f'"{domain_clean}"' in content:
+            return  # 已存在，跳过
+
+    # 追加新域名，确保先有换行符
+    with open(main_file, 'rb+') as f:
+        f.seek(0, 2)  # 移动到文件末尾
+        # 检查最后一个字符是否是换行符
+        f.seek(-1, 2)
+        last_char = f.read(1)
+        if last_char not in (b'\n', b'\r'):
+            # 文件末尾没有换行，先添加换行
+            f.write(b'\n')
+        f.write(f"  - '{domain}'\n".encode('utf-8'))
 
 
 def convert_to_list(txt_file):
@@ -119,11 +151,27 @@ def query_domain_info(domain, searcher):
     return country, ip
 
 
+def get_root_domain(domain):
+    """提取主域名（去除 www 等常见子域名）"""
+    domain = domain.lstrip('+.')
+    parts = domain.split('.')
+    if len(parts) >= 2:
+        # 去除 www, m 等常见子域名
+        common_subdomains = {'www', 'm', 'mobile', 'app'}
+        if parts[0].lower() in common_subdomains:
+            return '.'.join(parts[1:])
+    return domain
+
+
 def format_domain_rule(domain, use_suffix):
     """格式化域名规则"""
+    domain_clean = domain.lstrip('+.')
     if use_suffix:
-        return f"+.{domain}" if not domain.startswith('+.') else domain
-    return domain.lstrip('+.')
+        # 后缀匹配使用主域名
+        root = get_root_domain(domain_clean)
+        return f"+.{root}"
+    # 完整域名保持原样
+    return domain_clean
 
 
 def process_domain(domain, searcher, use_suffix=False):
@@ -146,9 +194,15 @@ def process_domain(domain, searcher, use_suffix=False):
     rule = format_domain_rule(domain, use_suffix)
     output_file = get_output_filename(is_cn)
 
+    # 写入分类文件
     append_to_yaml(output_file, rule)
     convert_to_list(output_file)
-    print(f"✅ 已写入: {output_file} -> {rule}")
+
+    # 同时追加到总文件
+    append_to_main_file(rule)
+    convert_to_list("mydirect.txt")
+
+    print(f"✅ 已写入: {output_file} + mydirect.txt -> {rule}")
     return True
 
 
@@ -227,9 +281,15 @@ def main():
             rule = format_domain_rule(domain, use_suffix)
             output_file = get_output_filename(is_cn)
 
+            # 写入分类文件
             append_to_yaml(output_file, rule)
             convert_to_list(output_file)
-            print(f"✅ 已写入: {output_file} -> {rule}")
+
+            # 同时追加到总文件
+            append_to_main_file(rule)
+            convert_to_list("mydirect.txt")
+
+            print(f"✅ 已写入: {output_file} + mydirect.txt -> {rule}")
 
         except KeyboardInterrupt:
             print("\n\n退出程序")
