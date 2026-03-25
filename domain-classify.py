@@ -3,10 +3,14 @@
 域名查询工具 - 查询域名 IP 归属地并写入规则文件
 """
 
-import dns.resolver
 import sys
 import os
 import io
+import json
+try:
+    import requests
+except ImportError:
+    requests = None
 
 # 添加 ip2region 模块路径
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'binding', 'python'))
@@ -37,12 +41,42 @@ def create_ip_searcher(db_path):
 
 
 def query_dns(domain):
-    """查询域名的 A 记录，返回 IP 列表"""
-    try:
-        answers = dns.resolver.resolve(domain, 'A')
-        return [rdata.address for rdata in answers]
-    except (dns.resolver.NXDOMAIN, dns.resolver.NoAnswer, dns.resolver.Timeout, Exception):
-        return None
+    """通过 DoH 查询域名的 A 记录，返回 IP 列表（绕过 fakeIP 劫持）"""
+    if not requests:
+        # 降级到 socket DNS 查询
+        import socket
+        try:
+            return socket.gethostbyname(domain)
+        except Exception:
+            return None
+
+    # DoH JSON API 服务器列表（优先国内，速度更快）
+    doh_servers = [
+        'https://223.5.5.5/resolve',       # 阿里 DNS
+        'https://119.29.29.29/dns',        # 腾讯 DNSPod
+        'https://1.1.1.1/dns-query',       # Cloudflare
+        'https://8.8.8.8/resolve',         # Google
+    ]
+
+    headers = {'Accept': 'application/dns-json'}
+
+    for doh_url in doh_servers:
+        try:
+            params = {'name': domain, 'type': 'A'}
+            resp = requests.get(doh_url, params=params, headers=headers, timeout=3)
+
+            if resp.status_code == 200:
+                data = resp.json()
+                # 兼容阿里/腾讯和 Cloudflare/Google 的响应格式
+                answers = data.get('Answer') or data.get('answer', [])
+                if answers:
+                    ips = [a['data'] for a in answers if a.get('type') == 1]
+                    if ips:
+                        return ips
+        except Exception:
+            continue  # 尝试下一个服务器
+
+    return None
 
 
 def check_ip_country(searcher, ip_str):

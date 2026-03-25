@@ -38,3 +38,4 @@ payload:
   - '+.aowu.tv'
   - 'images.jjawa.com'
   - '+.libvio.in'
+  - 'film.symx.club'
