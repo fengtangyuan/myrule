@@ -31,4 +31,6 @@ payload:
   - '19q.cc'
   - 'www.dmvvv.com'
   - 'mts.doudou520.online'
+  - 'dyrsok.com'
+  - 'box.dyrs.com.de'
 
