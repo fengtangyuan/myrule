@@ -270,3 +270,4 @@ payload:
   - 'www.mtyy5.com'
   - 'www.youknow.tv'
   - 'play.kvmplay.org'
+  - 'www.leijing.xyz'

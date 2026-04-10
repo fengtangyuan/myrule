@@ -309,3 +309,4 @@ payload:
   - 'images.jjawa.com'
   - 'play.kvmplay.org'
   - 'film.symx.club'
+  - 'www.leijing.xyz'
