@@ -311,3 +311,4 @@ payload:
   - 'film.symx.club'
   - 'www.leijing.xyz'
   - '101yaoye.com'
+  - 'cdn.091224.xyz'

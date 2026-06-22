@@ -272,3 +272,4 @@ payload:
   - 'play.kvmplay.org'
   - 'www.leijing.xyz'
   - '101yaoye.com'
+  - 'cdn.091224.xyz'
