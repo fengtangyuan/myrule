@@ -312,3 +312,6 @@ payload:
   - 'www.leijing.xyz'
   - '101yaoye.com'
   - 'cdn.091224.xyz'
+  - '+.stripe.network'
+  - '+.stripe.com'
+  - 'stripe.com'

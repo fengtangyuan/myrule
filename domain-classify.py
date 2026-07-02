@@ -54,8 +54,6 @@ def query_dns(domain):
     doh_servers = [
         'https://223.5.5.5/resolve',       # 阿里 DNS
         'https://119.29.29.29/dns',        # 腾讯 DNSPod
-        'https://1.1.1.1/dns-query',       # Cloudflare
-        'https://8.8.8.8/resolve',         # Google
     ]
 
     headers = {'Accept': 'application/dns-json'}

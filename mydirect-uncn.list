@@ -272,3 +272,6 @@ DOMAIN,play.kvmplay.org
 DOMAIN,www.leijing.xyz
 DOMAIN,101yaoye.com
 DOMAIN,cdn.091224.xyz
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripe.com
+DOMAIN,stripe.com
