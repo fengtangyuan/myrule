@@ -15,6 +15,7 @@ payload:
   - '+.centos.chat'
   - '+.whjzjx.cn'
   - '+.115.com'
+  - '+.123clouddisk.com'
   - '+.mgtv.com'
   - '+.miyoushe.com'
   - '+.netease.com'
