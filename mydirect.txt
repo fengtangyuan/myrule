@@ -157,6 +157,7 @@ payload:
   - '+.myripon.com'
   - '+.4199.win'
   - '+.nelreports.net'
+  - '+.tgalileo.com'
   - '+.tvsou.com'
   - '+.nowwon.xyz'
   - '+.nowm3.xyz'

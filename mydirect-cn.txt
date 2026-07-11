@@ -27,6 +27,7 @@ payload:
   - 'tjdownload.pan.wo.cn'
   - 'op.xn--it-if7c19g5s4bps5c.com'
   - 'sf16-sg.larksuitecdn.com'
+  - '+.tgalileo.com'
   - '+.tvsou.com'
   - '+.myripon.com'
   - '+.epicgames-download1-1251447533.file.myqcloud.com'
