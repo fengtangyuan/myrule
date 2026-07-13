@@ -14,7 +14,6 @@ payload:
   - '+.xpanpan.site'
   - '+.mox.moe'
   - '+.girigirilove.com'
-  - '+.jable.tv'
   - '+.trakt.tv'
   - 'raw.githubusercontent.com'
   - '+.kox.moe'
