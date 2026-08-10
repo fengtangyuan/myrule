@@ -277,4 +277,4 @@ payload:
   - '+.stripe.com'
   - 'stripe.com'
   - 'www.4kcz.com'
-  - 'opencode.ai'
+  - '+.opencode.ai'
