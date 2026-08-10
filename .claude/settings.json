@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python domain-classify.py 123clouddisk.com 2)"
+      "Bash(python domain-classify.py 123clouddisk.com 2)",
+      "Bash(python domain-classify.py opencode.ai 1)"
     ]
   }
 }
