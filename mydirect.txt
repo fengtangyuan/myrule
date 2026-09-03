@@ -318,3 +318,5 @@ payload:
   - 'stripe.com'
   - 'www.4kcz.com'
   - '+.123clouddisk.com'
+  - 'v.luttt.com'
+  - 'codewiki.zcode-ai.com'

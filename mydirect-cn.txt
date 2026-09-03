@@ -41,3 +41,4 @@ payload:
   - 'images.jjawa.com'
   - '+.libvio.in'
   - 'film.symx.club'
+  - 'v.luttt.com'

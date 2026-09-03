@@ -32,4 +32,4 @@ payload:
   - 'mts.doudou520.online'
   - 'dyrsok.com'
   - 'box.dyrs.com.de'
-
+  - 'browser-intake-us5-datadoghq.com'
