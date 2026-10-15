@@ -321,3 +321,5 @@ payload:
   - 'v.luttt.com'
   - 'codewiki.zcode-ai.com'
   - 'cfyx.aliyun.20237737.xyz'
+  - '+.commandcode.ai'
+  - '+.open-design.ai'
