@@ -281,3 +281,4 @@ payload:
   - 'cfyx.aliyun.20237737.xyz'
   - '+.tailscale.com'
   - '+.open-design.ai'
+  - '+.commandcode.ai'
