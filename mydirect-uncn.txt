@@ -198,7 +198,6 @@ payload:
   - '+.libvio.cc'
   - '+.ppxys.vip'
   - '+.thehanju.com'
-  - 'cdn.jsdelivr.net'
   - '+.a.nel.cloudflare.com'
   - '+.parsec.app'
   - '+.cdn-apple.com'

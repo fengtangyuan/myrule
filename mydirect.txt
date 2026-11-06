@@ -234,7 +234,6 @@ payload:
   - '+.thehanju.com'
   - '+.czzyvideo.com'
   - '+.czzymovie.com'
-  - 'cdn.jsdelivr.net'
   - 'api.msedgeservices.com'
   - '+.spst1.com'
   - '+.parsec.app'
