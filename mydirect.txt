@@ -323,4 +323,3 @@ payload:
   - '+.tailscale.com'
   - '+.open-design.ai'
   - '+.commandcode.ai'
-  - 'www.gyg.la'
