@@ -42,3 +42,4 @@ payload:
   - '+.libvio.in'
   - 'film.symx.club'
   - 'v.luttt.com'
+  - 'www.gyg.la'
